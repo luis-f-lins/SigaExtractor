@@ -14,7 +14,7 @@ Shortcut created by Luis Fernando Lins
 Updated September 2019
 V 1.0
 
-==============================================================================================================================
+============================================================
 
 SigaExtractor - ferramenta de importação de grade do SIGA para o calendário.
 
