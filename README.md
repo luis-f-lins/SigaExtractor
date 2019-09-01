@@ -11,10 +11,13 @@ After all the classes are loaded, press the share button at the bottom of the sc
 After that, everything will run automatically.
 
 Shortcut created by Luis Fernando Lins
+
 Updated September 2019
 V 1.0
 
+
 ============================================================
+
 
 SigaExtractor - ferramenta de importação de grade do SIGA para o calendário.
 
@@ -28,5 +31,6 @@ Após o carregamento de todas as matérias, pressione o botão de compartilhamen
 Depois disso, tudo será executado automaticamente.
 
 Atalho criado por Luis Fernando Lins
+
 Atualizado em setembro de 2019
 V 1.0
